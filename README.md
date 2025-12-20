@@ -27,5 +27,10 @@ fraud-detection/
 
 ## Tasks
 - Task 1: Data Analysis & Preprocessing
+**Exploratory Data Analysis (EDA)**
+  - Analyze class distribution (fraud vs non-fraud transactions)
+  - Examine transaction amount distributions
+  - Investigate time-based patterns
+  - Explore feature correlations
 - Task 2: Model Building & Training
 - Task 3: Model Explainability
